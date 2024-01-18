@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/my-repository/build/static/css/main.9a7b4477.css",
+    "main.js": "/my-repository/build/static/js/main.c15e0c8e.js",
+    "static/js/787.514c60cc.chunk.js": "/my-repository/build/static/js/787.514c60cc.chunk.js",
+    "static/media/logo.svg": "/my-repository/build/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
+    "index.html": "/my-repository/build/index.html",
+    "main.9a7b4477.css.map": "/my-repository/build/static/css/main.9a7b4477.css.map",
+    "main.c15e0c8e.js.map": "/my-repository/build/static/js/main.c15e0c8e.js.map",
+    "787.514c60cc.chunk.js.map": "/my-repository/build/static/js/787.514c60cc.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.9a7b4477.css",
+    "static/js/main.c15e0c8e.js"
+  ]
+}
